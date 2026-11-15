@@ -1,0 +1,32 @@
+# Upptime (https://upptime.js.org) — status page da Ronda Fiscal. Decisão 2026-08-04 (DECISIONS). Monitor = /healthz do simulador.
+owner: vinijira
+repo: ronda-status
+user-agent: ronda-status
+sites:
+  - name: Simulador Simples 2027
+    url: https://rondafiscal.com.br/healthz
+    expectedStatusCodes: [200]
+    maxResponseTime: 10000
+  - name: rondafiscal.com.br (home)
+    url: https://rondafiscal.com.br/
+status-website:
+  cname: status.rondafiscal.com.br
+  name: Status — Ronda Fiscal
+  introTitle: "Status dos serviços da Ronda Fiscal"
+  introMessage: "Verificação automática a cada 5 minutos. Incidentes abrem como issues neste repositório."
+  navbar:
+    - title: Status
+      href: /
+    - title: rondafiscal.com.br
+      href: https://rondafiscal.com.br
+i18n:
+  activeIncidents: Incidentes ativos
+  allSystemsOperational: Todos os sistemas operacionais
+  incidentReport: "Incidente #$INCIDENT_NUMBER"
+  liveStatus: Status ao vivo
+  overallUptime: "Uptime geral: $OVERALL_UPTIME"
+  pastIncidents: Incidentes anteriores
+  responseTime: Tempo de resposta
+  up: Operacional
+  down: Fora do ar
+  degraded: Degradado
