@@ -1,7 +1,7 @@
-url: https://simulador-simples.rondafiscal.workers.dev/healthz
+url: https://rondafiscal.com.br/healthz
 status: up
 code: 200
-responseTime: 2045
-lastUpdated: 2026-11-21T22:24:20.354Z
+responseTime: 955
+lastUpdated: 2026-11-21T23:00:55.995Z
 startTime: 2026-11-21T22:24:18.298Z
 generator: Upptime <https://github.com/upptime/upptime>
