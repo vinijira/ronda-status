@@ -1,8 +1,8 @@
 [
   {
     "name": "Simulador Simples 2027",
-    "url": "https://simulador-simples.rondafiscal.workers.dev/healthz",
-    "icon": "https://icons.duckduckgo.com/ip3/simulador-simples.rondafiscal.workers.dev.ico",
+    "url": "https://rondafiscal.com.br/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/rondafiscal.com.br.ico",
     "slug": "simulador-simples-2027",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2045,
-    "timeDay": 2045,
-    "timeWeek": 2045,
-    "timeMonth": 2045,
-    "timeYear": 2045,
+    "time": 1500,
+    "timeDay": 1500,
+    "timeWeek": 1500,
+    "timeMonth": 1500,
+    "timeYear": 1500,
     "dailyMinutesDown": {}
   }
 ]
