@@ -1,12 +1,12 @@
 # Upptime (https://upptime.js.org) — status page da Ronda Fiscal
 # Alvo: /healthz do Simulador (dead-man: responde 503 se o banco não responder em 8 s).
-# Até o go-live o alvo é o preview (workers.dev); no 4c do LAUNCH-RUNBOOK trocar para https://rondafiscal.com.br/healthz.
+# Go-live 2026-11-22: alvo é o domínio público.
 owner: vinijira
 repo: ronda-status
 
 sites:
   - name: Simulador Simples 2027
-    url: https://simulador-simples.rondafiscal.workers.dev/healthz
+    url: https://rondafiscal.com.br/healthz
     method: GET
     maxResponseTime: 8000
 
